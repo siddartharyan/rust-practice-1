@@ -1,7 +1,8 @@
 [package]
+edition = "2021"
 name = "first-excercise"
 version = "0.1.0"
-edition = "2021"
 
 [dependencies]
 chrono = "0.4.39"
+second_excercise = { version = "0.1.0", path = "../second-excercise" }

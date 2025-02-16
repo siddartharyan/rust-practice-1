@@ -1,0 +1,6 @@
+[package]
+edition = "2021"
+name = "second_excercise"
+version = "0.1.0"
+
+[dependencies]
